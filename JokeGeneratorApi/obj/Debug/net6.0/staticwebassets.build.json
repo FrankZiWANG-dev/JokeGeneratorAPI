@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2uO+09LLcPvBdd1yPagtSb2riX1grM0aSLIKqGneUks=",
+  "Source": "JokeGeneratorApi",
+  "BasePath": "_content/JokeGeneratorApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
